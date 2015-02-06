@@ -12,7 +12,7 @@ For more, please see:
 
 ## Sample
 
-![](http://github.com/yieme/strapdown/sample.png)
+![](https://raw.githubusercontent.com/yieme/strapdown/gh-pages/sample.png)
 
 ## Contributor guide
 
