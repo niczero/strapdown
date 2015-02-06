@@ -12,7 +12,10 @@ For more, please see:
 
 ## Sample
 
+[View Live](http://yie.me/strapdown)
+
 ![](https://raw.githubusercontent.com/yieme/strapdown/gh-pages/sample.png)
+
 
 ## Contributor guide
 
