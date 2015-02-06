@@ -8,7 +8,11 @@ This fork adds auto generated table of contents and can be used as a jQuery plug
 
 For more, please see:
 
-+ http://ndossougbe.github.io/strapdown
++ http://github.com/yieme/strapdown
+
+## Sample
+
+![](http://github.com/yieme/strapdown/sample.png)
 
 ## Contributor guide
 
