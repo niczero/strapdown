@@ -1,7 +1,7 @@
 {
   "author": "yieme",
   "name": "strapdown",
-  "version": "0.6.3",
+  "version": "0.6.4",
   "dependencies": {},
   "devDependencies": {
     "grunt": "~0.4.5",
